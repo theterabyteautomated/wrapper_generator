@@ -1,0 +1,29 @@
+wrapper_generator.prerelease@81d92374f497f724ef17685a19443e1ee8dc1802:
+    EffectiveTree: af441fc577f0b49869b6b0a6ea6191e2376c90c3
+    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+    Weak:
+        wrapper_generator.main@28aaf633d9c0659187ec15e377ff29efc12a858d:
+            EffectiveTree: 5bfa048c248bc40cd072ba719c05929450ac88e3
+            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+            Strong:
+                mc.com.google.guava.guava@29cb2b7f5268c889ed59749f9212bf498083db1a:
+                    EffectiveTree: 8a0ff54c35007d23fe948147329af77966727c26
+                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                    Strong:
+                        mc.com.google.code.findbugs.jsr305@ac7f04f63938910dbe8c5f799525732040c6ae1a:
+                            EffectiveTree: 79dc4e224fa52b37f0a71c3af8fc859b21d1ae1b
+                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                        mc.javax.inject.javax.inject@c14f0c532cf4829f4570ba4051be58a79783baa6:
+                            EffectiveTree: 29eff02d6f5dfccc41536f8ff61a431a1a102702
+                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+            Weak:
+                3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662:
+                    EffectiveTree: b7004b133988d950abd87376447c0ccc6a562524
+                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                    Metadata:
+                        buildType: COPY
+        wrapper_generator.release@f6b8f8c3fd84a84eb44e6b89fcfcdb07991ae0b6:
+            EffectiveTree: 6a706532ec96e2bbcde8f99d1e3f1a9f359bc2d3
+            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+            Metadata:
+                buildType: COPY

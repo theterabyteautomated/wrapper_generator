@@ -7,7 +7,7 @@ import subprocess
 import sys
 import tempfile
 
-JAVA_CLASS="qbt/fringe/wrapper_generator/Main"
+JAVA_CLASS="qbt.fringe.wrapper_generator.Main"
 
 release_base=os.path.dirname(os.path.dirname(os.path.realpath(sys.argv[0])))
 java_tmpdir=tempfile.mkdtemp(prefix="wg")
